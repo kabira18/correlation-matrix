@@ -9,13 +9,10 @@ This repository contains R code for generating correlation matrices and performi
 Repository Contents
 
 - correlation_matrix_analysis.R: R script containing code for data loading, correlation matrix calculation, and visualization.
-- iris_data.csv: Iris dataset used for analysis (included for convenience).
-- correlation_matrix.png and scatterplot_matrix.png: Example output visualizations.
-
+- iris_data.csv: Iris dataset used for analysis 
 
 Requirements
 
-- R version 4.0 or higher
 - Following R packages:
     - dlookr
     - ggstatsplot
@@ -24,11 +21,4 @@ Requirements
     - ggplot2
     - dplyr
 
-Installation
-
-To install required packages, run:
-
-
-
-install.packages(c("dlookr", "ggstatsplot", "performance", "GGally", "ggplot2", "dplyr"))
 
